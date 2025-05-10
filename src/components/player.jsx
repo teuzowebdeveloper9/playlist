@@ -6,9 +6,9 @@ import './player.css'
 function Player (){
     return(
       <div className='player'>  
-      <img id='image' src={musics[6].Image} alt="image" />
+      <img id='image' src={musics[9].Image} alt="image" />
         <audio controls>
-            <source src={musics[6].audio} />
+            <source src={musics[9].audio} />
         </audio>
       </div>
     )
