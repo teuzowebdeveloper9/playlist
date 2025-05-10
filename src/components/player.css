@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.player{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    width: 250px;
+    padding-top: 50px;
+    height: 250px;
+    margin-left: 450px;
+}
+#image{
+    border-radius: 20px;
+   margin-bottom: 10px;
+   height: 130px;
+   width: 200px;
+}
