@@ -28,6 +28,7 @@
    
     display: flex;
     gap: 15px;
+    margin-bottom: 5px;
 }
 .back, .play, .next, .pause{
   font-size: 80px; 
@@ -59,4 +60,28 @@
 @keyframes marquee {
   0%   { transform: translateX(0%); }
   100% { transform: translateX(-100%); }
+}
+.swiper
+{
+    -webkit-appearance: none;
+    appearance: none;
+    height: 6px;
+    border-radius: 8px;
+    border-color: purple;
+    border-width: 3px;
+    border-style: ridge;
+    background: purple;
+   
+}
+.swiper::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+  background: transparent;
+  background-color: black; 
+  background-size: 100%;
+  background-repeat: no-repeat;
+  cursor: pointer;
 }
