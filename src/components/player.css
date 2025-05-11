@@ -10,19 +10,19 @@
     text-align: center;
     align-items: center;
     background-color: black;
-    width: 250px;
-    padding-top: 50px;
-    height: 250px;
+    width: 200px;
+    padding: 80px;
+    height: 300px;
     margin-left: 450px;
 }
 .audio{
     display: none;
 }
 #image{
-    border-radius: 20px;
-   margin-bottom: 10px;
-   height: 130px;
-   width: 200px;
+   border-radius: 40px;
+  
+   height: 230px;
+   width: 300px;
 }
 .controls{
     margin-top: 40px;
@@ -30,7 +30,7 @@
     gap: 15px;
 }
 .back, .play, .next, .pause{
-  font-size: 30px; 
+  font-size: 80px; 
 }
 .next:hover,.back:hover,.play:hover, .pause:hover {
   color: blueviolet;
