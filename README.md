@@ -72,6 +72,10 @@ Este projeto ainda está em construção! Em breve:
 
 ![image](https://github.com/user-attachments/assets/68e1b92d-28a0-438c-8817-8e613a1b746f)
 
+## usando path na API
+
+![image](https://github.com/user-attachments/assets/14f44108-0be0-42a2-8702-55d3e40d71f3)
+
 
 
 🤝 Contribuição
