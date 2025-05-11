@@ -62,6 +62,17 @@ Este projeto ainda está em construção! Em breve:
 
 ![image](https://github.com/user-attachments/assets/5ffcfaf6-b60d-4b7b-a7a7-8699a6dd3eeb)
 
+## responsividade
+
+![image](https://github.com/user-attachments/assets/7bba3576-e4c9-4d1c-b833-ede6fcc054ea)
+
+![image](https://github.com/user-attachments/assets/f389584d-3097-482b-aaf0-833b77a30c44)
+
+![image](https://github.com/user-attachments/assets/5d50884e-42de-408c-b89b-5a398db97490)
+
+![image](https://github.com/user-attachments/assets/68e1b92d-28a0-438c-8817-8e613a1b746f)
+
+
 
 🤝 Contribuição
 Sinta-se à vontade para abrir issues, dar sugestões ou contribuir com pull requests! ou mandar eu tirar as musicas do site skksksk não quero processos por favor, beijos na testa 
