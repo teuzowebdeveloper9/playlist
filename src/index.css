@@ -5,10 +5,11 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: rgb(22, 22, 22);
+  background-color: purple;
   text-align: center;
   align-items: center;
-  margin-top: 280px;
+  margin-top: 150px;
+  margin-left: 50px;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

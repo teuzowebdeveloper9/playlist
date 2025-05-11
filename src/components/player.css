@@ -15,9 +15,26 @@
     height: 250px;
     margin-left: 450px;
 }
+.audio{
+    display: none;
+}
 #image{
     border-radius: 20px;
    margin-bottom: 10px;
    height: 130px;
    width: 200px;
+}
+.controls{
+    margin-top: 40px;
+    display: flex;
+    gap: 15px;
+}
+.back, .play, .next, .pause{
+  font-size: 30px; 
+}
+.next:hover,.back:hover,.play:hover, .pause:hover {
+  color: blueviolet;
+}
+.pause{
+    color:white;
 }
