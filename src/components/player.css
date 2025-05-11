@@ -31,7 +31,7 @@
     margin-bottom: 5px;
 }
 .back, .play, .next, .pause{
-  font-size: 80px; 
+  font-size: 50px; 
 }
 .next:hover,.back:hover,.play:hover, .pause:hover {
   color: blueviolet;
