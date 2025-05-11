@@ -12,7 +12,7 @@ function Player() {
     const AUDIO = document.querySelector('audio');
     AUDIO.load();
     AUDIO.play();
-    setIsPlaying(true); // quando muda de música, volta a tocar automaticamente
+    setIsPlaying(true); 
   }, [locate]);
 
   const goBack = () => {
