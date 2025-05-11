@@ -67,6 +67,9 @@ Este projeto ainda está em construção! Em breve:
 Sinta-se à vontade para abrir issues, dar sugestões ou contribuir com pull requests! ou mandar eu tirar as musicas do site skksksk não quero processos por favor, beijos na testa 
 
 📩 Contato
+
 Desenvolvido por Teuzo 
+
+
 teusowebdeveloper9
 
