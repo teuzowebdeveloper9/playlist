@@ -46,6 +46,9 @@ function Player() {
   return (
     <div className='player'>
       <img id='image' src={musics[locate].Image} alt="image" />
+      <div className='marquee'>
+         <p>{musics[locate].name}</p>
+      </div>
       <div className='controls'>
         <IoPlayBack className='back' onClick={goBack} />
         <div id='switch'></div>

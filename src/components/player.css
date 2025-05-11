@@ -21,11 +21,11 @@
 #image{
    border-radius: 40px;
   
-   height: 230px;
+   height: 180px;
    width: 300px;
 }
 .controls{
-    margin-top: 40px;
+   
     display: flex;
     gap: 15px;
 }
@@ -37,4 +37,26 @@
 }
 .pause{
     color:white;
+}
+.marquee {
+  
+  width: 200px;             
+  overflow: hidden;
+  white-space: nowrap;
+  box-sizing: border-box;
+}
+
+.marquee p {
+  height: 50px;
+  display: inline-block;
+  padding-left: 100%;       
+   font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+  0%   { transform: translateX(0%); }
+  100% { transform: translateX(-100%); }
 }
