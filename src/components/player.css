@@ -85,3 +85,56 @@
   background-repeat: no-repeat;
   cursor: pointer;
 }
+
+@media (max-width: 480px) {
+    .player {
+        width: 150px;
+        padding: 40px;
+        height: 250px;
+        margin-left: 0;
+    }
+
+    #image {
+        height: 140px;
+        width: 220px;
+    }
+
+    .controls {
+        gap: 10px;
+    }
+
+    .back, .play, .next, .pause {
+        font-size: 40px;
+    }
+
+    .marquee {
+        width: 150px;
+    }
+}
+
+/* Responsividade para telas entre 481px e 768px */
+@media (min-width: 481px) and (max-width: 768px) {
+    .player {
+        width: 180px;
+        padding: 60px;
+        height: 280px;
+        margin-left: 50px;
+    }
+
+    #image {
+        height: 160px;
+        width: 260px;
+    }
+
+    .controls {
+        gap: 12px;
+    }
+
+    .back, .play, .next, .pause {
+        font-size: 45px;
+    }
+
+    .marquee {
+        width: 180px;
+    }
+}

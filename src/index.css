@@ -6,10 +6,26 @@
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: purple;
- 
+  flex-direction: column;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+@media (max-width: 480px) {
+    :root {
+        font-size: 14px;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+    :root {
+        font-size: 15px;
+    }
 }
