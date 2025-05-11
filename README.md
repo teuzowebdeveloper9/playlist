@@ -27,17 +27,17 @@ Um player de música simples feito em **React**, com controle de play/pause, pr�
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/teuzowebdeveloper9/playlist
 
 # Entrar na pasta
-cd nome-do-repo
+cd playlist
 
 # Instalar dependências
 npm install
 
 # Rodar o projeto
 npm run dev 
-```bash
+```
 
 🪄 Próximas melhorias
 Este projeto ainda está em construção! Em breve:
@@ -52,13 +52,24 @@ Este projeto ainda está em construção! Em breve:
 
 🎨 Personalização de tema (dark/light)
 
-✨ Demonstração
-(Adicione aqui uma imagem ou gif do player funcionando)
+## ✨ Demonstração
+![image](https://github.com/user-attachments/assets/5148f4e8-f914-401d-b6a8-9cfef22dd988)
+
+![image](https://github.com/user-attachments/assets/2c5f8729-a5e6-4242-acdd-738d01b64055)
+
+![image](https://github.com/user-attachments/assets/c6a3799b-c268-4bda-a086-b8a7c3c0fed5)
+
+
+![image](https://github.com/user-attachments/assets/5ffcfaf6-b60d-4b7b-a7a7-8699a6dd3eeb)
+
 
 🤝 Contribuição
 Sinta-se à vontade para abrir issues, dar sugestões ou contribuir com pull requests! ou mandar eu tirar as musicas do site skksksk não quero processos por favor, beijos na testa 
 
 📩 Contato
+
 Desenvolvido por Teuzo 
+
+
 teusowebdeveloper9
 
