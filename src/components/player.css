@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+   
+   
 
 .player{
     border-radius: 5px;
