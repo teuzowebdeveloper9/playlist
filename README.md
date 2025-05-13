@@ -1,5 +1,7 @@
 # 🎧 React Music Player 🎶
 
+versão 1.0.1.0 -- adicionado a troca de botão de acordo com o estado da musica.
+
 Um player de música simples feito em **React**, com controle de play/pause, próximo/anterior e troca de capa. O objetivo é demonstrar lógica com hooks (`useState`, `useEffect`), controle manual de áudio e manipulação de estado em React puro.
 
 ---
